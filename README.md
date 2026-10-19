@@ -7,6 +7,9 @@ la automatización y el análisis de datos.
 - Construyendo una serie de proyectos de portafolio, uno por área
 - Aprendiendo FastAPI, SQL y pruebas automatizadas 
 
+## Lo que estoy aprendiendo
+- Git y flujo de trabajo con ramas y pull requests
+- Automatización de pruebas con Python
 ## Tecnologías
 Python · JavaScript · PHP · SQL · HTML/CSS · Git
 
