@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hola, soy Luigy Rivera Garrido 👋
 
-<!--
-**LordHollow666/LordHollow666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero de Sistemas en Colombia. Me interesa el desarrollo backend,
+la automatización y el análisis de datos.
 
-Here are some ideas to get you started:
+## En lo que estoy trabajando
+- Construyendo una serie de proyectos de portafolio, uno por área
+- Aprendiendo FastAPI, SQL y pruebas automatizadas 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+Python · JavaScript · PHP · SQL · HTML/CSS · Git
+
+## Proyectos
+Pronto: los iré agregando aquí a medida que los termine.
+
+## Contacto
+- LinkedIn: https://www.linkedin.com/in/luigy-r-460314141/
+- Correo: lurive2001@gmail.com
